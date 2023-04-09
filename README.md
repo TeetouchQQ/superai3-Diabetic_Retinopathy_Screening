@@ -8,5 +8,5 @@ My solution for the Diabetic Retinopathy Screening Hackathon uses the state-of-t
 
 
 LB score 0.90272
-PB scroe 0.89822
+PB score 0.89822
 ![alt text](leaderboard.png)
